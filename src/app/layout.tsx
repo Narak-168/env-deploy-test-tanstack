@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   openGraph:{
     title: "Testing ENV With Tanstack",
     description: "Ot jg dak te, lazy to sse",
-    siteName: "ENV ft Tanstack",
+    siteName: "Next.js App",
     images: "https://em-content.zobj.net/social/emoji/middle-finger.png",
     locale: "en_US",
     type: "website",
